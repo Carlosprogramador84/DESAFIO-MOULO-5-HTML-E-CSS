@@ -39,12 +39,14 @@ header {
 img {
   margin: 246px 0 0 121px;
   display: inline-block;
+  width: 33rem;
 }
 
 section {
   display: inline-block;
-  margin-left: 96px;
-  width: 493px;
+  margin-left:850px;
+  width: 33rem;
+  margin-top: 280px;
 }
 
 h1 {
